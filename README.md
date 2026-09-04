@@ -1,5 +1,6 @@
- gurt: yo
-<img width="1920" height="1080" alt="Untitled1224_20260904154534" src="https://github.com/user-attachments/assets/0c599246-3e78-47dc-a66c-16f7dd2e5858" />
+<img width="735" height="492" alt="tumblr_152ab4bf1cf0820e8689bcfa3d8eb34a_690b1547_2048" src="https://github.com/user-attachments/assets/6c246cd4-821e-44ea-848c-9257eda06da0" />
+
+gurt: yo
 <!--
 **battery-enthusiast/battery-enthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
