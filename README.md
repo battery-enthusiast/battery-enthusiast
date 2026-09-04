@@ -2,15 +2,11 @@
 
 
 gurt: yo
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
 <!--
 **battery-enthusiast/battery-enthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...<img width="1920" height="1080" alt="Untitled1224_20260904154534" src="https://github.com/user-attachments/assets/0c599246-3e78-47dc-a66c-16f7dd2e5858" />
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
