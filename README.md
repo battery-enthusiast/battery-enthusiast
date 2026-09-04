@@ -3,7 +3,7 @@
 
 gurt: yo
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=battery-enthusiast)
 
 <!--
 **battery-enthusiast/battery-enthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
