@@ -1,4 +1,4 @@
-<img width="736" height="727" alt="de307ba14cccb3fe0caa24abfa3b931f" src="https://github.com/user-attachments/assets/f7288263-a32e-49c0-bd92-871d96153708" />
+<img width="368" height="363" alt="de307ba14cccb3fe0caa24abfa3b931f" src="https://github.com/user-attachments/assets/f7288263-a32e-49c0-bd92-871d96153708" />
 
 
 gurt: yo
