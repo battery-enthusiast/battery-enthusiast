@@ -1,4 +1,5 @@
-<img width="735" height="492" alt="tumblr_152ab4bf1cf0820e8689bcfa3d8eb34a_690b1547_2048" src="https://github.com/user-attachments/assets/6c246cd4-821e-44ea-848c-9257eda06da0" />
+<img width="736" height="727" alt="de307ba14cccb3fe0caa24abfa3b931f" src="https://github.com/user-attachments/assets/f7288263-a32e-49c0-bd92-871d96153708" />
+
 
 gurt: yo
 <!--
